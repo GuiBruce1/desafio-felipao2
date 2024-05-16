@@ -1,0 +1,3 @@
+# Apresentação do Código!
+- Fiz este código tomando a liberdade de alterar algumas coisas na lógica, como evitar de que os saldos de vitória como 10, 11, 20, 21 caiam em um limbo sem serem ranqueados, já que a instrução manda que, por exemplo, o nível bronze seja entre 11 e 20, excluindo esses números. Tomei também a liberdade de não usar laços de repetição e nem estruturas de decisão como switch case, pois não vi necessidade de implementá-los.
+## Obrigado pela atenção!
